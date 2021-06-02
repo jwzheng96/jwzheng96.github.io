@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student in [the School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](http://info.tsinghua.edu.cn/index.jsp). I obtained B.S. in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2019.
+I'm a Ph.D student under the supervision of [Zhenhua Li](http://www.greenorbs.org/people/lzh/) in [the School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](http://info.tsinghua.edu.cn/index.jsp). I obtained B.S. in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2019.
 
 My research interests lie in the intersection of cloud computing, networking, and artificial intelligence (AI). I enjoy building systems and tools to foster the development of the world.
 
