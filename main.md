@@ -20,8 +20,7 @@ title: Jianwei Zheng's homepage
 </tbody>
 </table>
 
-I'm now a PhD student under the supervision of [Zhenhua Li](http://www.greenorbs.org/people/lzh/) and
-[Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html) in the School of Software, Tsinghua University (THU).
+I'm now a PhD student under the supervision of [Zhenhua Li](http://www.greenorbs.org/people/lzh/) in the School of Software, Tsinghua University (THU).
 My research interests lie in the fields of mobile computing, cloud computing and deep learning.
 
     
