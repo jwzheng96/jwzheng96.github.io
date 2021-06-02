@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Research Assistant, Tsinghua University, Beijing, China   2019.09 - now
-  * Advisors: [Zhenhua Li](http://www.greenorbs.org/people/lzh/), [Yunhao Liu](http://tns.thss.tsinghua.edu.cn/~yunhao/en.html)
+  * Advisors: Associate Professor & Ph.D. Advisor [Zhenhua Li](http://www.greenorbs.org/people/lzh/)
   * Worked on Networking, Cloud Computing, Cloud-based Delta Sync
 
 
