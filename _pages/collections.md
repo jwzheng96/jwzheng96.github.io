@@ -24,7 +24,31 @@ author_profile: true
 - [Hints on Doing Research](http://blizzard.cs.uwaterloo.ca/keshav/wiki/index.php/Hints_on_doing_research) by Srinivasan Keshav
 
 - [How To Have A Bad Career in Research/Academia]({{site.baseurl}}/static/collection/BadCareer.pdf) by David A. Patterson
+  
 
 ## Systems & Networking
 
+- [Hints for Computer Systems Design]({{site.baseurl}}/static/collection/acrobat-17.pdf) by Butler W. Lampson
+
+- [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html) by Richard P. Gabriel
+
+- [End-To-End Arguments in System Design]({{site.baseurl}}/static/collection/endtoend.pdf) by Jerome H. Saltzer, David P. Reed, David Clark
+
+- [Systems Benchmarking Crimes](https://www.cse.unsw.edu.au/~gernot/benchmarking-crimes.html) by Gernot Heiser
+
+- [Computer System Design Principles]({{site.baseurl}}/static/collection/part_ii_open_5_0.pdf) by Jerry Saltzer
+
+- [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) by Jeff Hodges
+
+- [Empirical Evaluation Guidelines](https://www.sigplan.org/Resources/EmpiricalEvaluation/) by ACM SIGPLAN
+
+
 ## Writing
+
+- [The Science of Scientific Writing]({{site.baseurl}}/static/collection/science-of-writing.pdf) by George D. Gopen and Judith A. Swan
+
+- [The Element of Style]({{site.baseurl}}/static/collection/The-elements-of-style.pdf) by William Strunk Jr and E. B. White
+
+- [Tips and Guidance for Students Writing Papers and Reports](https://www.cse.unsw.edu.au/~gernot/style-guide.html) by Gernot Heiser
+
+- [ Latex Usage Notes](http://www.read.seas.harvard.edu/~kohler/latex.html) by Eddie Kohler
