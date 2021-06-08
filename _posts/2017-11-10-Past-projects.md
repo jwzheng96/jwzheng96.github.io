@@ -7,7 +7,4 @@ tags:
   - deprecated
 ---
 
-
-+ [ProjectName]([project url](https://github.com/jwzheng96/jwzheng96.github.io)) - 
-
 Descriptions
