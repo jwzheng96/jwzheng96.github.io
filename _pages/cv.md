@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV at [link](/static/cv/jianweizheng_cv_en.pdf) or [link (Chinese version)](/static/cv/jianweizheng_cv_zh.pdf).
+Download my CV at [link](/static/cv/jianweizheng_cv_cn.pdf).
 
 Education
 ======
