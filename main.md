@@ -32,6 +32,8 @@ My research interests lie in the fields of mobile computing, cloud computing and
 
     [![TON2020](https://img.shields.io/badge/TON-2020-brightgreen.svg)](https://dl.acm.org/journal/ton)
 
+- **Jianwei Zheng**, Zhenhua Li, Yuanhui Qiu, Hao Lin, He Xiao, Yang Li, Yunhao Liu. "WebAssembly-based Delta Sync for Cloud Storage Services" IEEE/ACM Transactions on Storage (TOS), Vol. XX, No. X, XX. XXXX, Pages XX-XX. (SCI, Impact factor: 1.59), preprint.
+
 ## Honors, Grants and Awards
 
 + Social Practice Scholarship for PhD of Tsinghua University
