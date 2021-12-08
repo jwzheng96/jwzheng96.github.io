@@ -34,16 +34,17 @@ My research interests lie in the fields of mobile computing, cloud computing and
 
 ## Honors, Grants and Awards
 
-+ Working on it!
++ Social Practice Scholarship for PhD of Tsinghua University
++ Yangfan Scholarship of Fujian Province
 
 ## Teaching
 
+* Data Quality (Graduate Course). TA
+    * Fall 2020, Fall 2021
 * Operating Systems (Undergraduate Course). TA
     * Spring 2021
 * Basic Computer Programming (Undergraduate Course). TA
-    * Spring 2021
-* Data Quality (Graduate Course). TA
-    * Fall 2020
+    * Summer 2021
 
 ## Others
 
