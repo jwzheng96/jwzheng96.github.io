@@ -18,9 +18,9 @@ Education
 
 Work experience
 ======
-* Research Assistant, Tsinghua University, Beijing, China   2019.09 - now
+* Research Assistant, Tsinghua University, Beijing, China   2018.08 - now
   * Advisors: Associate Professor & Ph.D. Advisor [Zhenhua Li](http://www.greenorbs.org/people/lzh/)
-  * Worked on Networking, Cloud Computing, Cloud-based Delta Sync
+  * Worked on Networking, Cloud Computing, Cloud-based Delta Sync, Mobile Systems
 
 
 <!-- Publications
@@ -39,6 +39,6 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
+  {% endfor %}</ul> -->
+  
 
