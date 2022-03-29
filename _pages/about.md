@@ -35,7 +35,7 @@ My research interests lie in the intersection of cloud computing, networking, an
 * Data Quality (Graduate Course). TA
     * Fall 2020, Fall 2021
 * Operating Systems (Undergraduate Course). TA
-    * Spring 2021
+    * Spring 2021, Spring 2022
 * Basic Computer Programming (Undergraduate Course). TA
     * Summer 2021
 
