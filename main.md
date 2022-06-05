@@ -20,8 +20,9 @@ title: Jianwei Zheng's homepage
 </tbody>
 </table>
 
-I'm now a PhD student under the supervision of [Zhenhua Li](http://www.greenorbs.org/people/lzh/) in the School of Software, Tsinghua University (THU).
-My research interests lie in the fields of mobile computing, cloud computing and deep learning.
+I am currently a Ph.D. student at the School of Software, Tsinghua University (THU), advised by [Prof. Zhenhua Li](http://www.greenorbs.org/people/lzh/).
+My research interests lie in the fields of mobile computing, cloud computing and Web.
+I am currently devoted to fostering Web application performance by leveraging the newly proposed WebAssembly. 
 
     
 ## Publications

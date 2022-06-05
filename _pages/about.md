@@ -8,10 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student under the supervision of [Zhenhua Li](http://www.greenorbs.org/people/lzh/) in [the School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](http://info.tsinghua.edu.cn/index.jsp). I obtained B.S. in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2019.
+I am currently a Ph.D. student at [the School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](http://info.tsinghua.edu.cn/index.jsp), advised by [Prof. Zhenhua Li](http://www.greenorbs.org/people/lzh/).
+My research interests lie in the fields of mobile computing, cloud computing and Web.
+I am currently devoted to fostering Web application performance by leveraging the newly proposed WebAssembly.
+I also find interest in crypto computing, such as smart contract and cryptocurrency mining.
+I enjoy building systems and tools to foster the development of the world.
 
-My research interests lie in the intersection of cloud computing, networking, and artificial intelligence (AI). I enjoy building systems and tools to foster the development of the world.
+Prior to joining Tsinghua University, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn/), China, Obtaining a B.S. in Computer Science at EECS.
 
+You can contact me via (zhengjw19@mails.tsinghua.edu.cn), (zhengjw1996@gmail.com) and (jianweizheng@pku.edu.cn)
+
+
+## News
+[April 2022] I passed my Ph.D. qualifying exam and become a Ph.D. candidate.
+
+[November 2021] One paper is accepted by Transactiion on Storage (TOS).
+
+[March 2020] One paper is accepted by Transaction on Networking (TON).
     
 ## Selected Publications
 
