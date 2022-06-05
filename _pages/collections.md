@@ -42,6 +42,7 @@ author_profile: true
 
 - [Empirical Evaluation Guidelines](https://www.sigplan.org/Resources/EmpiricalEvaluation/) by ACM SIGPLAN
 
+- [How are computer systems conference papers reviewed?]({{site.baseurl}}/static/collection/review.pdf) by Haibo Chen
 
 ## Writing
 
