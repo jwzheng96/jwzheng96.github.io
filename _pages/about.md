@@ -14,7 +14,7 @@ I am currently devoted to fostering Web application performance by leveraging th
 I also find interest in crypto computing, such as smart contract and cryptocurrency mining.
 I enjoy building systems and tools to foster the development of the world.
 
-Prior to joining Tsinghua University, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn/), China, Obtaining a B.S. in Computer Science at EECS.
+Prior to joining Tsinghua University, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn/), China, obtaining a B.S. in Computer Science at EECS.
 
 You can contact me via (zhengjw19@mails.tsinghua.edu.cn), (zhengjw1996@gmail.com) and (jianweizheng@pku.edu.cn)
 

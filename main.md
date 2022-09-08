@@ -22,7 +22,12 @@ title: Jianwei Zheng's homepage
 
 I am currently a Ph.D. student at the School of Software, Tsinghua University (THU), advised by [Prof. Zhenhua Li](http://www.greenorbs.org/people/lzh/).
 My research interests lie in the fields of mobile computing, cloud computing and Web.
-I am currently devoted to fostering Web application performance by leveraging the newly proposed WebAssembly. 
+I am currently devoted to fostering Web application performance by leveraging the newly proposed WebAssembly.
+I also find interest in crypto computing, such as smart contract and cryptocurrency mining.
+
+Prior to joining Tsinghua University, I spent 4 wonderful years at Peking University, China, obtaining a B.S. in Computer Science at EECS.
+
+You can contact me via (zhengjw19@mails.tsinghua.edu.cn), (zhengjw1996@gmail.com) and (jianweizheng@pku.edu.cn)
 
     
 ## Publications
@@ -49,7 +54,7 @@ I am currently devoted to fostering Web application performance by leveraging th
 * Operating Systems (Undergraduate Course). TA
     * Spring 2021, Spring 2022
 * Basic Computer Programming (Undergraduate Course). TA
-    * Summer 2021
+    * Summer 2021, Summer 2022
 
 <!-- ## Others
 
