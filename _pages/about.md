@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Ph.D. student at [the School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](http://info.tsinghua.edu.cn/index.jsp), advised by [Prof. Zhenhua Li](http://www.greenorbs.org/people/lzh/).
-My research interests lie in the fields of mobile computing, cloud computing and Web.
+My research interests lie in the fields of mobile computing, cloud computing/storage, and Web.
 I am currently devoted to fostering Web application performance by leveraging the newly proposed WebAssembly.
 I also find interest in crypto computing, such as smart contract and cryptocurrency mining.
 I enjoy building systems and tools to foster the development of the world.
@@ -20,7 +20,7 @@ You can contact me via (zhengjw19@mails.tsinghua.edu.cn), (zhengjw1996@gmail.com
 
 
 ## News
-[April 2022] I passed my Ph.D. qualifying exam and become a Ph.D. candidate.
+[April 2022] I pass my Ph.D. qualifying exam and become a Ph.D. candidate.
 
 [November 2021] One paper is accepted by Transactiion on Storage (TOS).
 
