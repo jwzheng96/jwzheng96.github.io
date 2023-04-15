@@ -40,6 +40,7 @@ You can contact me via (zhengjw19@mails.tsinghua.edu.cn), (zhengjw1996@gmail.com
 
 ## Honors, Grants and Awards
 
++ First-class Scholarship of Tsinghua University
 + Excellent Social Practice Scholarship for PhD of Tsinghua University
 + Yangfan Scholarship of Fujian Province
 
