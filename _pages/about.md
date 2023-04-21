@@ -50,6 +50,8 @@ You can contact me via (zhengjw19@mails.tsinghua.edu.cn), (zhengjw1996@gmail.com
     * Fall 2020, Fall 2021
 * Operating Systems (Undergraduate Course). TA
     * Spring 2021, Spring 2022, Spring 2023
+* Advanced Python Programming (Undergraduate Course). TA
+    * Fall 2022 
 * Basic Computer Programming (Undergraduate Course). TA
     * Summer 2021
 
