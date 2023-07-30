@@ -20,6 +20,8 @@ You can contact me via (zhengjw19@mails.tsinghua.edu.cn), (zhengjw1996@gmail.com
 
 
 ## News
+[July 2023] One paper is accepted by ACM Multimedia 2023 (MM'23). 
+
 [April 2022] I pass my Ph.D. qualifying exam and become a Ph.D. candidate.
 
 [November 2021] One paper is accepted by Transactiion on Storage (TOS).
@@ -32,7 +34,7 @@ You can contact me via (zhengjw19@mails.tsinghua.edu.cn), (zhengjw1996@gmail.com
 - **Jianwei Zheng**, Changnan Xiao, Mingliang Li, Zhenhua Li*, Feng Qian, Wei Liu, and Xudong Wu. ParliRobo: Participant Lightweight AI Robots for Massively Multiplayer Online Games (MMOGs). The 31st ACM International Conference on Multimedia (MM), Oct. 29 - Nov. 3, 2023, Ottawa, Canada.
   
   [![MM2023](https://img.shields.io/badge/MM-2023-brightgreen.svg)](https://www.acmmm2023.org/)
-  
+
 - **Jianwei Zheng**, Zhenhua Li, Yuanhui Qiu, Hao Lin, He Xiao, Yang Li, Yunhao Liu. "WebAssembly-based Delta Sync for Cloud Storage Services" ACM Transactions on Storage (TOS), Vol. 18, No. 3, Sep. 2022, Article 24. [[PDF]]({{site.baseurl}}/static/files/WASM_based_delta_sync.pdf)
     
     [![TOS2022](https://img.shields.io/badge/TOS-2022-brightgreen.svg)](https://dl.acm.org/journal/tos)
