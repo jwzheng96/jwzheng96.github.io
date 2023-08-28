@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 (* indicates co-primary and/or corresponding author)
-- **Jianwei Zheng**, Changnan Xiao, Mingliang Li, Zhenhua Li*, Feng Qian, Wei Liu, and Xudong Wu. ParliRobo: Participant Lightweight AI Robots for Massively Multiplayer Online Games (MMOGs). The 31st ACM International Conference on Multimedia (MM), Oct. 29 - Nov. 3, 2023, Ottawa, Canada.
+- **Jianwei Zheng**, Changnan Xiao, Mingliang Li, Zhenhua Li*, Feng Qian, Wei Liu, and Xudong Wu. ParliRobo: Participant Lightweight AI Robots for Massively Multiplayer Online Games (MMOGs). The 31st ACM International Conference on Multimedia (MM), Oct. 29 - Nov. 3, 2023, Ottawa, Canada. [[PDF]]({{site.baseurl}}/static/files/MM23_ParliRobo.pdf)
   
   [![MM2023](https://img.shields.io/badge/MM-2023-brightgreen.svg)](https://www.acmmm2023.org/)
   
