@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV at [link](/static/cv/jianweizheng_cv_cn.pdf).
+[English version](/static/cv/jianweizheng_cv_en.pdf) [Chinese version](/static/cv/jianweizheng_cv_cn.pdf)
 
 Education
 ======
@@ -18,7 +18,12 @@ Education
 
 Work experience
 ======
-* Research Assistant, Tsinghua University, Beijing, China   2018.08 - now
+
+* Research Intern, Xiaomi Technology Co. LTD, Beijing, China   2021.08 - 2023.08
+  * Advisors: Ju Wang and Cang Zhang.
+  * Worked on  Mobile Computing
+
+* Ph.D student, Tsinghua University, Beijing, China  2018.08 - now
   * Advisors: Associate Professor & Ph.D. Advisor [Zhenhua Li](http://www.greenorbs.org/people/lzh/)
   * Worked on  Mobile Computing, Cloud Computing/Storage, and Web
 
