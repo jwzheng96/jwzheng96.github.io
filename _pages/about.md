@@ -20,6 +20,8 @@ You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (zhengj
 
 
 ## News
+[April 2024] Invited to serve as Reviewer of ACM MM'24.
+
 [November 2023] One paper is accepted by ACM MobiCom 2024.
 
 [July 2023] One paper is accepted by ACM Multimedia 2023 (MM'23). 
@@ -66,6 +68,9 @@ You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (zhengj
 * Basic Computer Programming (Undergraduate Course). TA
     * Summer 2021
 
+## Academic Service
+* Reviewer
+    * [ACM MM 2024](https://2024.acmmm.org/)
 <!-- ## Others
 
 {% for post in site.posts %}
