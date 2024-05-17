@@ -6,7 +6,7 @@ title: Jianwei Zheng's homepage
 <table style="border-style:none">
 <tbody style="border-style:hidden">
 <tr>
-  <td><img width="256px" src="{{site.baseurl}}/static/figure/jianweizheng.jpg"></td>
+  <td><img width="256px" src="{{site.baseurl}}/static/figure/jianweizheng.jpeg"></td>
   <td>
     <h2>JianweiZheng 郑剑伟</h2>
     <p>PhD student</p>
