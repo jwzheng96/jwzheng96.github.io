@@ -32,10 +32,10 @@ You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (zhengj
 
 [March 2020] One paper is accepted by Transaction on Networking (TON).
     
-## Selected Publications
+## Selected Publications ([Full List](/publications/))
 
 (* indicates co-primary and/or corresponding author)
-- [MobiCom'24] **Jianwei Zheng**, Zhenhua Li*, Feng Qian, Wei Liu, Hao Lin, Liangyi Gong, Tianyin Xu, Nan Zhang, Ju Wang, Cang Zhang. Rethinking the Process Management Model for Interactive Mobile Systems. The 30th Annual International Conference On Mobile Computing And Networking (MobiCom), Sep. 30 - Oct. 4, 2024, Washington, D.C., USA.
+- [MobiCom'24] **Jianwei Zheng**, Zhenhua Li*, Feng Qian, Wei Liu, Hao Lin, Liangyi Gong, Tianyin Xu, Nan Zhang, Ju Wang, Cang Zhang. Rethinking Process Management for Interactive Mobile Systems. The 30th Annual International Conference On Mobile Computing And Networking (MobiCom), Sep. 30 - Oct. 4, 2024, Washington, D.C., USA.
 <!-- 
   [![MobiCom2024](https://img.shields.io/badge/MobiCom-2024-brightgreen.svg)](https://sigmobile.org/mobicom/2024/) -->
 
