@@ -16,7 +16,7 @@ I enjoy building systems and tools to foster the development of the world.Prior 
 
 <font color='red'>I am currently on the job market!</font>
 
-You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (zhengjw1996[AT]gmail[DOT]com) and (jianweizheng[AT]pku[DOT]edu[DOT]cn)
+You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (jianweizheng96[AT]gmail[DOT]com) and (jianweizheng[AT]pku[DOT]edu[DOT]cn)
 
 
 ## News
