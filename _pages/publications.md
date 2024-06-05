@@ -12,8 +12,7 @@ author_profile: true
 {% include base_path %}
 
 (* indicates co-primary and/or corresponding author)
-(* indicates co-primary and/or corresponding author)
-- [MobiCom'24] **Jianwei Zheng**, Zhenhua Li*, Feng Qian, Wei Liu, Hao Lin, Liangyi Gong, Tianyin Xu, Nan Zhang, Ju Wang, Cang Zhang. Rethinking Process Management for Interactive Mobile Systems. The 30th Annual International Conference On Mobile Computing And Networking (MobiCom), Sep. 30 - Oct. 4, 2024, Washington, D.C., USA.
+- [MobiCom'24] **Jianwei Zheng**, Zhenhua Li*, Feng Qian, Wei Liu, Hao Lin, Liangyi Gong, Tianyin Xu, Nan Zhang, Ju Wang, Cang Zhang. [Rethinking Process Management for Interactive Mobile Systems]({{site.baseurl}}/static/files/MobiCom24_SUR.pdf). The 30th Annual International Conference On Mobile Computing And Networking (MobiCom), Sep. 30 - Oct. 4, 2024, Washington, D.C., USA.
 <!-- 
   [![MobiCom2024](https://img.shields.io/badge/MobiCom-2024-brightgreen.svg)](https://sigmobile.org/mobicom/2024/) -->
 
