@@ -21,6 +21,7 @@ You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (jianwe
 
 ## News
 [May 2024] I defend my Ph.D thesis and obtain the Ph.D degree.
+
 [April 2024] Invited to serve as Reviewer of ACM MM'24
 
 [November 2023] One paper is accepted by ACM MobiCom 2024.
