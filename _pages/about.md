@@ -57,6 +57,7 @@ You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (jianwe
 
 ## Honors, Grants and Awards
 
++ Outstanding Graduate of School of Software, Tsinghua University
 + First-class Scholarship of Tsinghua University
 + Excellent Social Practice Scholarship for PhD of Tsinghua University
 + Yangfan Scholarship of Fujian Province
