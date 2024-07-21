@@ -14,7 +14,7 @@ My research interests lie in the fields of mobile computing, cloud computing/sto
 I also find interest in crypto computing, such as smart contract and cryptocurrency mining. -->
 I enjoy building systems and tools to foster the development of the world.Prior to joining Tsinghua University, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn/), China, obtaining a B.S. in Computer Science at EECS.
 
-<font color='red'>I am currently on the job market!</font>
+<!-- <font color='red'>I am currently on the job market!</font> -->
 
 You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (jianweizheng96[AT]gmail[DOT]com) and (jianweizheng[AT]pku[DOT]edu[DOT]cn)
 
