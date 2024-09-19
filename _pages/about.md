@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year Ph.D student at [the School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](http://info.tsinghua.edu.cn/index.jsp), advised by [Prof. Zhenhua Li](http://www.greenorbs.org/people/lzh/).
-My research interests lie in the fields of mobile computing, cloud computing/storage, and Web.
-<!-- I am currently devoted to fostering Web application performance by leveraging the newly proposed WebAssembly.
-I also find interest in crypto computing, such as smart contract and cryptocurrency mining. -->
-I enjoy building systems and tools to foster the development of the world.Prior to joining Tsinghua University, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn/), China, obtaining a B.S. in Computer Science at EECS.
-
-<!-- <font color='red'>I am currently on the job market!</font> -->
+I am currently serve as a researcher (a.k.a principle engineer) of AI-native OS at Huawei OS Kernel Lab. I obtained my Ph.D degree (advised by [Prof. Zhenhua Li](http://www.greenorbs.org/people/lzh/)) from [Tsinghua University](http://info.tsinghua.edu.cn/index.jsp) in 2024.
+I received a B.E. degree in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2019.
+My research interests primarily lie in the fields of deep learning system, AI-native OS, cloud/mobile computing, and interconnect techniques.
+I enjoy building systems and tools to foster the development of the world!
 
 You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (jianweizheng96[AT]gmail[DOT]com) and (jianweizheng[AT]pku[DOT]edu[DOT]cn)
 
@@ -57,9 +54,9 @@ You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (jianwe
 
 ## Honors, Grants and Awards
 
-+ Outstanding Graduate of School of Software, Tsinghua University
++ Outstanding Ph.D Graduate of School of Software, Tsinghua University (10 positions)
 + First-class Scholarship of Tsinghua University
-+ Excellent Social Practice Scholarship for PhD of Tsinghua University
++ Excellent Social Practice Scholarship for Ph.D of Tsinghua University
 + Yangfan Scholarship of Fujian Province
 
 ## Teaching
