@@ -13,7 +13,7 @@ I received a B.E. degree in Computer Science from [Peking University](https://ww
 My research interests primarily lie in the fields of deep learning system, AI-native OS, cloud/mobile computing, and interconnect techniques.
 I enjoy building systems and tools to foster the development of the world!
 
-You can contact me via (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn), (jianweizheng96[AT]gmail[DOT]com) and (jianweizheng[AT]pku[DOT]edu[DOT]cn)
+You can contact me via (jianweizheng96[AT]gmail[DOT]com) (primary), (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn) and (jianweizheng[AT]pku[DOT]edu[DOT]cn)
 
 
 ## News
