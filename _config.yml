@@ -117,6 +117,7 @@ exclude:
   - Capfile
   - Gemfile
   - Gruntfile.js
+  - CLAUDE.md
   - LICENSE
   - README
   - Rakefile
@@ -126,8 +127,10 @@ exclude:
   - config
   - gulpfile.js
   - log
+  - markdown_generator
   - node_modules
   - package.json
+  - talkmap.py
   - tmp
   - vendor
 keep_files:
@@ -157,13 +160,6 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _pages
@@ -173,15 +169,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 # Sass/SCSS
 sass:

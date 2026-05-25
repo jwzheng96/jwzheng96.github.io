@@ -17,18 +17,17 @@ bundle exec jekyll serve --config _config.yml,_config.dev.yml
 
 ## Where content lives
 
-All real, edited content is in `_pages/`. There is no separate `_posts`/`_publications`/`_talks` content — those template collections were removed; the publications and talks lists are hand-written in `_pages/`.
+All real, edited content is in `_pages/`. The site has **no collections** — every piece of content is hand-written Markdown in `_pages/`.
 
 | URL | Source file | Notes |
 |---|---|---|
 | `/` | `_pages/about.md` | Home page. Has `permalink: /`. Contains bio, News, Selected Publications, Honors, Teaching, Academic Service. |
 | `/publications/` | `_pages/publications.md` | Full publications list, hand-written Markdown. |
-| `/teaching/` | `_pages/teaching.html` | Iterates `site.teaching` collection (renders `_teaching/*.md`). |
 | `/cv/` | `_pages/cv.md` | Education + work experience; links to PDFs in `static/cv/`. |
 | `/collections/` | `_pages/collections.md` | Curated reading list of papers/articles. |
 | 404 | `_pages/404.md` | Error page. |
 
-The **only active collection** is `_teaching/` (configured in `_config.yml` under `collections:`). To add a teaching entry, drop a Markdown file into `_teaching/` following the existing entries' front-matter shape (`title`, `collection: teaching`, `type`, `permalink`, `venue`, `date`, `location`).
+To add a new top-level page, drop a Markdown file in `_pages/` with `permalink: /your-url/` in front-matter and add a `_data/navigation.yml` entry if you want it linked from the header nav.
 
 ## Theme infrastructure (don't touch unless intentional)
 
@@ -50,8 +49,10 @@ Navigation links: `_data/navigation.yml`. UI strings: `_data/ui-text.yml` (theme
 
 ## Dormant tooling
 
-- `markdown_generator/` — Python scripts (`publications.py`, `talks.py`, `pubsFromBib.py`) that generate per-item Markdown into `_publications/` and `_talks/` from TSV/BibTeX. **Currently inert** — the target collections were removed (`_config.yml` only declares `teaching`). To use them again, recreate the collection in `_config.yml`, recreate the `_publications/`/`_talks/` dirs, and a matching `_pages/publications.html` / `_pages/talks.html` that iterates `site.publications` / `site.talks`. The current hand-written `_pages/publications.md` doesn't need them.
-- `talkmap.py` — generates a leaflet cluster map of talk venues by scraping `location:` front-matter from `_talks/*.md`. Inert for the same reason; `talkmap_link: false` in `_config.yml`.
+- `markdown_generator/` — Python scripts (`publications.py`, `talks.py`, `pubsFromBib.py`) that generate per-item Markdown into `_publications/` and `_talks/` from TSV/BibTeX. **Currently inert** — no collections are declared. To use them again, recreate the collection in `_config.yml` and add a `_pages/publications.html` / `_pages/talks.html` that iterates `site.publications` / `site.talks`. The current hand-written `_pages/publications.md` doesn't need them.
+- `talkmap.py` — generates a leaflet cluster map of talk venues by scraping `location:` front-matter from `_talks/*.md`. Inert for the same reason.
+
+Both are listed in `_config.yml`'s `exclude:` so Jekyll won't copy them into `_site/`.
 
 ## Gotchas
 
