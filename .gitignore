@@ -1,0 +1,21 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# Node
+node_modules/
+
+# Python (talkmap.py / markdown_generator)
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
