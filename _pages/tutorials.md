@@ -5,7 +5,7 @@ permalink: /tutorials/
 author_profile: true
 ---
 
-A growing set of hands-on tutorials I write while learning and building LLM inference systems and agent systems. They are open source, code-first, and meant for engineers who want to understand how these systems actually work end to end. More will be added over time.
+A growing set of hands-on tutorials I write while learning and building LLM inference systems, LLM training systems, and agent systems. They are open source, code-first, and meant for engineers who want to understand how these systems actually work end to end. More will be added over time.
 
 ## LLM Inference Systems
 
