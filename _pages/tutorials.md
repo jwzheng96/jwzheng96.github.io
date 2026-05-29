@@ -13,6 +13,10 @@ A growing set of hands-on tutorials I write while learning and building LLM infe
 
 - [**vLLM Learning Handbook**](https://jwzheng96.github.io/vllm-learning-book/) — A 46-chapter engineering handbook on LLM inference optimization, covering PagedAttention, continuous batching, KV cache management, source-code walkthroughs of vLLM internals, quantization and speculative decoding, distributed inference, and production deployment with monitoring. Targeted at engineers preparing for LLM infrastructure roles, integrating inference services into production, or contributing to vLLM itself.
 
+## LLM Training Systems
+
+- [**LLM Training Framework Tutorial Hub**](https://jwzheng96.github.io/llm-train-tutorials/) — A code-first tour of 15 major open-source LLM training frameworks, each with its own 13-chapter tutorial pinned to specific source commits. Covers pretraining and distributed foundations (Megatron-LM, DeepSpeed, ColossalAI, TorchTitan, nanotron, NeMo), fine-tuning stacks (LLaMA-Factory, ms-swift, Axolotl, Unsloth, XTuner), RLHF and post-training (TRL, OpenRLHF, verl), and general acceleration/PEFT. Aimed at engineers who want to understand training-system internals — parallelism strategies, memory and communication, and RLHF pipelines — by reading real framework code rather than just running scripts.
+
 ## Agent Systems
 
 - [**From Hermes, Learn Agent**](https://jwzheng96.github.io/from-hermes-learn-agent/) — A code-level textbook that teaches how to build production-grade AI agents by reading the open-source Hermes Agent framework. The 14 chapters span agent fundamentals, the core conversation loop, tool systems, learning mechanisms, multi-platform architecture, and frontier work from 2024–2026, pairing Hermes source-code analysis with key papers and industry implementations such as ReAct, MemGPT, and Claude Code.
