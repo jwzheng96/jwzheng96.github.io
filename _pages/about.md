@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently serve as a researcher (a.k.a principle engineer) of AI-native OS at Huawei OS Kernel Lab. I obtained my Ph.D degree (advised by [Prof. Zhenhua Li](http://www.greenorbs.org/people/lzh/)) from [Tsinghua University](http://info.tsinghua.edu.cn/index.jsp) in 2024.
+I obtained my Ph.D degree (advised by [Prof. Zhenhua Li](http://www.greenorbs.org/people/lzh/)) from [Tsinghua University](http://info.tsinghua.edu.cn/index.jsp) in 2024.
 I received a B.E. degree in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2019.
 My research interests primarily lie in the fields of deep learning system, AI-native OS, cloud/mobile computing, and interconnect techniques.
 These days I am mainly focused on **LLM inference systems**, **LLM training systems**, and **agent systems** — see my ongoing [Tutorials](/tutorials/) for notes and hands-on materials in these areas.
 I enjoy building systems and tools to foster the development of the world!
 
-You can contact me via (jianweizheng96[AT]gmail[DOT]com) (primary), (zhengjw19[AT]mails[DOT]tsinghua[DOT]edu[DOT]cn) and (jianweizheng[AT]pku[DOT]edu[DOT]cn)
+You can contact me via zjwofpku[AT]gmail[DOT]com.
 
 
 ## News
