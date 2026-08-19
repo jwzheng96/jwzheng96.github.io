@@ -18,6 +18,8 @@ You can contact me via zjwofpku[AT]gmail[DOT]com.
 
 
 ## News
+[August 2026] One paper is accepted by ACM MobiCom 2026.
+
 [June 2024] I am awarded as the outstanding Ph.D graduate of School of Software, Tsinghua University.
 
 [May 2024] I successfully defend my Ph.D thesis and obtain the Ph.D degree.
@@ -37,6 +39,12 @@ You can contact me via zjwofpku[AT]gmail[DOT]com.
 ## Selected Publications ([Full List](/publications/))
 
 (* indicates co-primary and/or corresponding author)
+- [MobiCom'26] Haoyu Zhang, Hongyi Wang, **Jianwei Zheng***, Yu Li, Tianyang
+  Jiang, Zhenhua Li, and Ning Jia. CFMoE: Cache-Friendly Mixture of Experts
+  Model Serving System on Edge Devices. The 32nd ACM Annual International
+  Conference on Mobile Computing and Networking (MobiCom), Nov. 2026, Austin,
+  Texas, US.
+
 - [MobiCom'24] **Jianwei Zheng**, Zhenhua Li*, Feng Qian, Wei Liu, Hao Lin, Liangyi Gong, Tianyin Xu, Nan Zhang, Ju Wang, Cang Zhang. [Rethinking Process Management for Interactive Mobile Systems]({{site.baseurl}}/static/files/MobiCom24_SUR.pdf). The 30th Annual International Conference On Mobile Computing And Networking (MobiCom), Sep. 30 - Oct. 4, 2024, Washington, D.C., USA.
 <!-- 
   [![MobiCom2024](https://img.shields.io/badge/MobiCom-2024-brightgreen.svg)](https://sigmobile.org/mobicom/2024/) -->
