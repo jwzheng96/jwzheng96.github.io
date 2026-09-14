@@ -66,7 +66,6 @@ You can contact me via zjwofpku[AT]gmail[DOT]com.
 + Outstanding Ph.D Graduate of School of Software, Tsinghua University (10 positions)
 + First-class Scholarship of Tsinghua University
 + Excellent Social Practice Scholarship for Ph.D of Tsinghua University
-+ Yangfan Scholarship of Fujian Province
 
 ## Teaching
 
